@@ -1,13 +1,12 @@
 {
   "name": "ASITHA-MD",
-  "description": "Javascript WhatsApp bot made by Asitha",
-  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
-  "keywords": ["bot"],
+  "description": "Javascript WhatsApp bot made y Asita"
+  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jp
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=4RxywSxT#q6Stz1WT_RJie46StQbx6AtkFnS8uBss98nk_dOQW60",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=hZ5hjSoL#2q6x0k6mAsiJ9vYg0hcmXv7K1dStiG09E06opNce_24",
       "required": true
     }
 },
