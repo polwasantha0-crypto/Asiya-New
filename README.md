@@ -36,7 +36,7 @@
   </a>
 </div>
 <div align="center">
-  <p><b>🔑 Get The Session ID</b></p>
+  <p><b>🔑 Get The Session ID</b>𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=0U5VwT4b#Ygk3qR4C98qLjeKXN68SpwRwlgsucQz5cycjQPF2zLM</p>
   <a href="https://asitha.top/" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white" height="55">
   </a>
