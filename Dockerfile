@@ -1,4 +1,5 @@
-FROM node:lts-buster 
+FROM node:lts-bullseye
+
 RUN apt-get update && \
     apt-get install -y \
     ffmpeg \
@@ -6,7 +7,7 @@ RUN apt-get update && \
     webp && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
-  
+
 WORKDIR /usr/src/app
 
 COPY package.json .
