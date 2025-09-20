@@ -4,15 +4,11 @@ on:
   push:
     branches:
       - main
-      - jezter
-      - din
   pull_request:
     branches:
       - main
-      - jezter
-      - din
   schedule:
-    # Runs every 6 hours (UTC)
+    # Runs every 6 hours
     - cron: '0 */6 * * *'
 
 jobs:
