@@ -3,10 +3,10 @@ name: Node.js CI
 on:
   push:
     branches:
-      - main
+      - jezter
   pull_request:
     branches:
-      - main
+      - jezter
   schedule:
     # Runs every 6 hours
     - cron: '0 */6 * * *'
